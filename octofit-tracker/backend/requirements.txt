@@ -1,2 +1,2 @@
 # Add Django as a requirement for the backend
-Django>=3.2,<4.0
+Django==4.1
